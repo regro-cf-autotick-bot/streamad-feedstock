@@ -25,10 +25,8 @@ requirements:
     - pandas >=1.3.0
     - plotly
     - python
-    - rrcf
     - scikit-learn >=1.0.0
     - scipy >=1.7.0
-    - tdigest
 
 test:
   imports:
