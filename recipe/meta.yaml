@@ -1,5 +1,5 @@
 {% set name = "streamad" %}
-{% set version = "0.2.0" %}
+{% set version = "0.3.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/streamad-{{ version }}.tar.gz
-  sha256: afb879e2bd774ec1042f6876bee836e1b74d535efcfda344879f71755d0ed99d
+  sha256: c7ba955c5ef15b39f3d5d26c91c37ef5da10ba3824796db411f17c6d7acf6e2d
 
 build:
   noarch: python
