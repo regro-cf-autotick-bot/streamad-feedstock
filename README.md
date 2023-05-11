@@ -1,11 +1,11 @@
-About streamad
-==============
+About streamad-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/streamad-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/Fengrui-Liu/StreamAD
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/streamad-feedstock/blob/main/LICENSE.txt)
 
 Summary: An anomaly detection package for data streams.
 
